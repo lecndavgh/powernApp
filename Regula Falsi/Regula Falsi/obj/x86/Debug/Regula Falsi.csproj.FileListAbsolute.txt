@@ -1,0 +1,26 @@
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.exe
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.pdb
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Form1.resources
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Properties.Resources.resources
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.exe
+c:\users\david lechner\documents\visual studio 2010\Projects\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.pdb
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.exe
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.pdb
+E:\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.exe
+E:\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.pdb
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Form1.resources
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Properties.Resources.resources
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.exe
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.pdb
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.exe
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\bin\Debug\Regula Falsi.pdb
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.csprojResolveAssemblyReference.cache
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Form1.resources
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Properties.Resources.resources
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.csproj.GenerateResource.Cache

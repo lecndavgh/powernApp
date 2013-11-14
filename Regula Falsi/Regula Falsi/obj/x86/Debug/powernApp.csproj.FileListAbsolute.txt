@@ -1,0 +1,20 @@
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.exe
+C:\Users\schueler\Downloads\CX Regula Falsi 10-07-2013 at 11.26AM\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula Falsi.pdb
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.csprojResolveAssemblyReference.cache
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Form1.resources
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.Properties.Resources.resources
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.csproj.GenerateResource.Cache
+E:\Regula Falsi\Regula Falsi\bin\Debug\powernApp.exe
+E:\Regula Falsi\Regula Falsi\bin\Debug\powernApp.pdb
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.exe
+E:\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.pdb
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.exe
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.pdb
+E:\Schule\Progs\Regula Falsi\Regula Falsi\bin\Debug\powernApp.exe
+E:\Schule\Progs\Regula Falsi\Regula Falsi\bin\Debug\powernApp.pdb
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.csprojResolveAssemblyReference.cache
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\Regula_Falsi.Form1.resources
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.Properties.Resources.resources
+E:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.csproj.GenerateResource.Cache
+D:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.exe
+D:\Schule\Progs\Regula Falsi\Regula Falsi\obj\x86\Debug\powernApp.pdb
